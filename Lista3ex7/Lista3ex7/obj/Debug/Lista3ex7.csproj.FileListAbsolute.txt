@@ -1,0 +1,8 @@
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\bin\Debug\Lista3ex7.exe.config
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\bin\Debug\Lista3ex7.exe
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\bin\Debug\Lista3ex7.pdb
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\obj\Debug\Lista3ex7.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\obj\Debug\Lista3ex7.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\obj\Debug\Lista3ex7.exe
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\obj\Debug\Lista3ex7.pdb
+C:\Users\gilbe\source\repos\Lista3ex7\Lista3ex7\obj\Debug\Lista3ex7.exe.config
